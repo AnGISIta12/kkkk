@@ -1,0 +1,5 @@
+COMANDOS DE COMPILACIÓN 
+g++ -o programa main.cpp menu_options.cpp volumen.cpp -std=c++11
+---------------------------------------------------
+ELIMINAR ARCHIVOS .O
+rm *.o
